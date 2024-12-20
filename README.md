@@ -1,3 +1,2 @@
-# calculate-interest-rate
-To calculate interest rate
-# me
+# increase-test-timeout
+This repository is for practicing the GitHub Flow
