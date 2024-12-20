@@ -1,2 +1,2 @@
-# increase-test-timeout
-This repository is for practicing the GitHub Flow
+# Calculate-interest-rate
+This repository is for calculating interest rate
